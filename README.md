@@ -4,7 +4,6 @@ This is a very simple game written in C++ & SDL2. You are a red cube that needs 
 I made this game to get a better handle regarding some the core concepts of SDL2, using Surfaces, Textures, Audio, Events and game state management.
 Feel free to use it as a learning template.
 
-```
-Learning's better when you're having fun!
+`Learning's better when you're having fun!`
 Cheers!
-```
+
