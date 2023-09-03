@@ -5,5 +5,6 @@ I made this game to get a better handle regarding some the core concepts of SDL2
 Feel free to use it as a learning template.
 
 `Learning's better when you're having fun!`
+
 Cheers!
 
